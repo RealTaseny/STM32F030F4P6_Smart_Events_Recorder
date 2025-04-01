@@ -1,0 +1,170 @@
+[
+{
+  "directory": "G:/STM32_Projects/Smart_Events_Recorder/cmake-build-debug-mingw",
+  "command": "D:\\ARMGNU~1\\14EFD8~1.2RE\\bin\\AR19DD~1.EXE -DDEBUG -DSTM32F030x6 -DUSE_HAL_DRIVER -IG:/STM32_Projects/Smart_Events_Recorder/Core/Inc -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/STM32F0xx_HAL_Driver/Inc -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/CMSIS/Include  -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Smart_Events_Recorder.dir\\Core\\Src\\main.c.obj -c G:\\STM32_Projects\\Smart_Events_Recorder\\Core\\Src\\main.c",
+  "file": "G:\\STM32_Projects\\Smart_Events_Recorder\\Core\\Src\\main.c",
+  "output": "CMakeFiles\\Smart_Events_Recorder.dir\\Core\\Src\\main.c.obj"
+},
+{
+  "directory": "G:/STM32_Projects/Smart_Events_Recorder/cmake-build-debug-mingw",
+  "command": "D:\\ARMGNU~1\\14EFD8~1.2RE\\bin\\AR19DD~1.EXE -DDEBUG -DSTM32F030x6 -DUSE_HAL_DRIVER -IG:/STM32_Projects/Smart_Events_Recorder/Core/Inc -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/STM32F0xx_HAL_Driver/Inc -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/CMSIS/Include  -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Smart_Events_Recorder.dir\\Core\\Src\\gpio.c.obj -c G:\\STM32_Projects\\Smart_Events_Recorder\\Core\\Src\\gpio.c",
+  "file": "G:\\STM32_Projects\\Smart_Events_Recorder\\Core\\Src\\gpio.c",
+  "output": "CMakeFiles\\Smart_Events_Recorder.dir\\Core\\Src\\gpio.c.obj"
+},
+{
+  "directory": "G:/STM32_Projects/Smart_Events_Recorder/cmake-build-debug-mingw",
+  "command": "D:\\ARMGNU~1\\14EFD8~1.2RE\\bin\\AR19DD~1.EXE -DDEBUG -DSTM32F030x6 -DUSE_HAL_DRIVER -IG:/STM32_Projects/Smart_Events_Recorder/Core/Inc -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/STM32F0xx_HAL_Driver/Inc -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/CMSIS/Include  -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Smart_Events_Recorder.dir\\Core\\Src\\adc.c.obj -c G:\\STM32_Projects\\Smart_Events_Recorder\\Core\\Src\\adc.c",
+  "file": "G:\\STM32_Projects\\Smart_Events_Recorder\\Core\\Src\\adc.c",
+  "output": "CMakeFiles\\Smart_Events_Recorder.dir\\Core\\Src\\adc.c.obj"
+},
+{
+  "directory": "G:/STM32_Projects/Smart_Events_Recorder/cmake-build-debug-mingw",
+  "command": "D:\\ARMGNU~1\\14EFD8~1.2RE\\bin\\AR19DD~1.EXE -DDEBUG -DSTM32F030x6 -DUSE_HAL_DRIVER -IG:/STM32_Projects/Smart_Events_Recorder/Core/Inc -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/STM32F0xx_HAL_Driver/Inc -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/CMSIS/Include  -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Smart_Events_Recorder.dir\\Core\\Src\\i2c.c.obj -c G:\\STM32_Projects\\Smart_Events_Recorder\\Core\\Src\\i2c.c",
+  "file": "G:\\STM32_Projects\\Smart_Events_Recorder\\Core\\Src\\i2c.c",
+  "output": "CMakeFiles\\Smart_Events_Recorder.dir\\Core\\Src\\i2c.c.obj"
+},
+{
+  "directory": "G:/STM32_Projects/Smart_Events_Recorder/cmake-build-debug-mingw",
+  "command": "D:\\ARMGNU~1\\14EFD8~1.2RE\\bin\\AR19DD~1.EXE -DDEBUG -DSTM32F030x6 -DUSE_HAL_DRIVER -IG:/STM32_Projects/Smart_Events_Recorder/Core/Inc -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/STM32F0xx_HAL_Driver/Inc -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/CMSIS/Include  -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Smart_Events_Recorder.dir\\Core\\Src\\spi.c.obj -c G:\\STM32_Projects\\Smart_Events_Recorder\\Core\\Src\\spi.c",
+  "file": "G:\\STM32_Projects\\Smart_Events_Recorder\\Core\\Src\\spi.c",
+  "output": "CMakeFiles\\Smart_Events_Recorder.dir\\Core\\Src\\spi.c.obj"
+},
+{
+  "directory": "G:/STM32_Projects/Smart_Events_Recorder/cmake-build-debug-mingw",
+  "command": "D:\\ARMGNU~1\\14EFD8~1.2RE\\bin\\AR19DD~1.EXE -DDEBUG -DSTM32F030x6 -DUSE_HAL_DRIVER -IG:/STM32_Projects/Smart_Events_Recorder/Core/Inc -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/STM32F0xx_HAL_Driver/Inc -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/CMSIS/Include  -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Smart_Events_Recorder.dir\\Core\\Src\\stm32f0xx_it.c.obj -c G:\\STM32_Projects\\Smart_Events_Recorder\\Core\\Src\\stm32f0xx_it.c",
+  "file": "G:\\STM32_Projects\\Smart_Events_Recorder\\Core\\Src\\stm32f0xx_it.c",
+  "output": "CMakeFiles\\Smart_Events_Recorder.dir\\Core\\Src\\stm32f0xx_it.c.obj"
+},
+{
+  "directory": "G:/STM32_Projects/Smart_Events_Recorder/cmake-build-debug-mingw",
+  "command": "D:\\ARMGNU~1\\14EFD8~1.2RE\\bin\\AR19DD~1.EXE -DDEBUG -DSTM32F030x6 -DUSE_HAL_DRIVER -IG:/STM32_Projects/Smart_Events_Recorder/Core/Inc -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/STM32F0xx_HAL_Driver/Inc -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/CMSIS/Include  -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Smart_Events_Recorder.dir\\Core\\Src\\stm32f0xx_hal_msp.c.obj -c G:\\STM32_Projects\\Smart_Events_Recorder\\Core\\Src\\stm32f0xx_hal_msp.c",
+  "file": "G:\\STM32_Projects\\Smart_Events_Recorder\\Core\\Src\\stm32f0xx_hal_msp.c",
+  "output": "CMakeFiles\\Smart_Events_Recorder.dir\\Core\\Src\\stm32f0xx_hal_msp.c.obj"
+},
+{
+  "directory": "G:/STM32_Projects/Smart_Events_Recorder/cmake-build-debug-mingw",
+  "command": "D:\\ARMGNU~1\\14EFD8~1.2RE\\bin\\AR19DD~1.EXE -DDEBUG -DSTM32F030x6 -DUSE_HAL_DRIVER -IG:/STM32_Projects/Smart_Events_Recorder/Core/Inc -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/STM32F0xx_HAL_Driver/Inc -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/CMSIS/Include  -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Smart_Events_Recorder.dir\\Core\\Src\\sysmem.c.obj -c G:\\STM32_Projects\\Smart_Events_Recorder\\Core\\Src\\sysmem.c",
+  "file": "G:\\STM32_Projects\\Smart_Events_Recorder\\Core\\Src\\sysmem.c",
+  "output": "CMakeFiles\\Smart_Events_Recorder.dir\\Core\\Src\\sysmem.c.obj"
+},
+{
+  "directory": "G:/STM32_Projects/Smart_Events_Recorder/cmake-build-debug-mingw",
+  "command": "D:\\ARMGNU~1\\14EFD8~1.2RE\\bin\\AR19DD~1.EXE -DDEBUG -DSTM32F030x6 -DUSE_HAL_DRIVER -IG:/STM32_Projects/Smart_Events_Recorder/Core/Inc -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/STM32F0xx_HAL_Driver/Inc -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/CMSIS/Include  -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Smart_Events_Recorder.dir\\Core\\Src\\syscalls.c.obj -c G:\\STM32_Projects\\Smart_Events_Recorder\\Core\\Src\\syscalls.c",
+  "file": "G:\\STM32_Projects\\Smart_Events_Recorder\\Core\\Src\\syscalls.c",
+  "output": "CMakeFiles\\Smart_Events_Recorder.dir\\Core\\Src\\syscalls.c.obj"
+},
+{
+  "directory": "G:/STM32_Projects/Smart_Events_Recorder/cmake-build-debug-mingw",
+  "command": "D:\\ARMGNU~1\\14EFD8~1.2RE\\bin\\AR19DD~1.EXE -DDEBUG -DSTM32F030x6 -DUSE_HAL_DRIVER -IG:/STM32_Projects/Smart_Events_Recorder/Core/Inc -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/STM32F0xx_HAL_Driver/Inc -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/CMSIS/Include  -mcpu=cortex-m0  -x assembler-with-cpp -MMD -MP -g -o CMakeFiles\\Smart_Events_Recorder.dir\\startup_stm32f030x6.s.obj -c G:\\STM32_Projects\\Smart_Events_Recorder\\startup_stm32f030x6.s",
+  "file": "G:\\STM32_Projects\\Smart_Events_Recorder\\startup_stm32f030x6.s",
+  "output": "CMakeFiles\\Smart_Events_Recorder.dir\\startup_stm32f030x6.s.obj"
+},
+{
+  "directory": "G:/STM32_Projects/Smart_Events_Recorder/cmake-build-debug-mingw",
+  "command": "D:\\ARMGNU~1\\14EFD8~1.2RE\\bin\\AR19DD~1.EXE -DDEBUG -DSTM32F030x6 -DUSE_HAL_DRIVER -IG:/STM32_Projects/Smart_Events_Recorder/Core/Inc -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/STM32F0xx_HAL_Driver/Inc -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/CMSIS/Include  -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -fdiagnostics-color=always -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Core\\Src\\system_stm32f0xx.c.obj -c G:\\STM32_Projects\\Smart_Events_Recorder\\Core\\Src\\system_stm32f0xx.c",
+  "file": "G:\\STM32_Projects\\Smart_Events_Recorder\\Core\\Src\\system_stm32f0xx.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Core\\Src\\system_stm32f0xx.c.obj"
+},
+{
+  "directory": "G:/STM32_Projects/Smart_Events_Recorder/cmake-build-debug-mingw",
+  "command": "D:\\ARMGNU~1\\14EFD8~1.2RE\\bin\\AR19DD~1.EXE -DDEBUG -DSTM32F030x6 -DUSE_HAL_DRIVER -IG:/STM32_Projects/Smart_Events_Recorder/Core/Inc -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/STM32F0xx_HAL_Driver/Inc -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/CMSIS/Include  -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -fdiagnostics-color=always -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_adc.c.obj -c G:\\STM32_Projects\\Smart_Events_Recorder\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_adc.c",
+  "file": "G:\\STM32_Projects\\Smart_Events_Recorder\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_adc.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_adc.c.obj"
+},
+{
+  "directory": "G:/STM32_Projects/Smart_Events_Recorder/cmake-build-debug-mingw",
+  "command": "D:\\ARMGNU~1\\14EFD8~1.2RE\\bin\\AR19DD~1.EXE -DDEBUG -DSTM32F030x6 -DUSE_HAL_DRIVER -IG:/STM32_Projects/Smart_Events_Recorder/Core/Inc -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/STM32F0xx_HAL_Driver/Inc -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/CMSIS/Include  -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -fdiagnostics-color=always -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_adc_ex.c.obj -c G:\\STM32_Projects\\Smart_Events_Recorder\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_adc_ex.c",
+  "file": "G:\\STM32_Projects\\Smart_Events_Recorder\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_adc_ex.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_adc_ex.c.obj"
+},
+{
+  "directory": "G:/STM32_Projects/Smart_Events_Recorder/cmake-build-debug-mingw",
+  "command": "D:\\ARMGNU~1\\14EFD8~1.2RE\\bin\\AR19DD~1.EXE -DDEBUG -DSTM32F030x6 -DUSE_HAL_DRIVER -IG:/STM32_Projects/Smart_Events_Recorder/Core/Inc -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/STM32F0xx_HAL_Driver/Inc -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/CMSIS/Include  -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -fdiagnostics-color=always -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_rcc.c.obj -c G:\\STM32_Projects\\Smart_Events_Recorder\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_rcc.c",
+  "file": "G:\\STM32_Projects\\Smart_Events_Recorder\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_rcc.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_rcc.c.obj"
+},
+{
+  "directory": "G:/STM32_Projects/Smart_Events_Recorder/cmake-build-debug-mingw",
+  "command": "D:\\ARMGNU~1\\14EFD8~1.2RE\\bin\\AR19DD~1.EXE -DDEBUG -DSTM32F030x6 -DUSE_HAL_DRIVER -IG:/STM32_Projects/Smart_Events_Recorder/Core/Inc -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/STM32F0xx_HAL_Driver/Inc -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/CMSIS/Include  -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -fdiagnostics-color=always -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_rcc_ex.c.obj -c G:\\STM32_Projects\\Smart_Events_Recorder\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_rcc_ex.c",
+  "file": "G:\\STM32_Projects\\Smart_Events_Recorder\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_rcc_ex.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_rcc_ex.c.obj"
+},
+{
+  "directory": "G:/STM32_Projects/Smart_Events_Recorder/cmake-build-debug-mingw",
+  "command": "D:\\ARMGNU~1\\14EFD8~1.2RE\\bin\\AR19DD~1.EXE -DDEBUG -DSTM32F030x6 -DUSE_HAL_DRIVER -IG:/STM32_Projects/Smart_Events_Recorder/Core/Inc -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/STM32F0xx_HAL_Driver/Inc -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/CMSIS/Include  -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -fdiagnostics-color=always -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal.c.obj -c G:\\STM32_Projects\\Smart_Events_Recorder\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal.c",
+  "file": "G:\\STM32_Projects\\Smart_Events_Recorder\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal.c.obj"
+},
+{
+  "directory": "G:/STM32_Projects/Smart_Events_Recorder/cmake-build-debug-mingw",
+  "command": "D:\\ARMGNU~1\\14EFD8~1.2RE\\bin\\AR19DD~1.EXE -DDEBUG -DSTM32F030x6 -DUSE_HAL_DRIVER -IG:/STM32_Projects/Smart_Events_Recorder/Core/Inc -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/STM32F0xx_HAL_Driver/Inc -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/CMSIS/Include  -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -fdiagnostics-color=always -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_i2c.c.obj -c G:\\STM32_Projects\\Smart_Events_Recorder\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_i2c.c",
+  "file": "G:\\STM32_Projects\\Smart_Events_Recorder\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_i2c.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_i2c.c.obj"
+},
+{
+  "directory": "G:/STM32_Projects/Smart_Events_Recorder/cmake-build-debug-mingw",
+  "command": "D:\\ARMGNU~1\\14EFD8~1.2RE\\bin\\AR19DD~1.EXE -DDEBUG -DSTM32F030x6 -DUSE_HAL_DRIVER -IG:/STM32_Projects/Smart_Events_Recorder/Core/Inc -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/STM32F0xx_HAL_Driver/Inc -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/CMSIS/Include  -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -fdiagnostics-color=always -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_i2c_ex.c.obj -c G:\\STM32_Projects\\Smart_Events_Recorder\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_i2c_ex.c",
+  "file": "G:\\STM32_Projects\\Smart_Events_Recorder\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_i2c_ex.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_i2c_ex.c.obj"
+},
+{
+  "directory": "G:/STM32_Projects/Smart_Events_Recorder/cmake-build-debug-mingw",
+  "command": "D:\\ARMGNU~1\\14EFD8~1.2RE\\bin\\AR19DD~1.EXE -DDEBUG -DSTM32F030x6 -DUSE_HAL_DRIVER -IG:/STM32_Projects/Smart_Events_Recorder/Core/Inc -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/STM32F0xx_HAL_Driver/Inc -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/CMSIS/Include  -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -fdiagnostics-color=always -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_gpio.c.obj -c G:\\STM32_Projects\\Smart_Events_Recorder\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_gpio.c",
+  "file": "G:\\STM32_Projects\\Smart_Events_Recorder\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_gpio.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_gpio.c.obj"
+},
+{
+  "directory": "G:/STM32_Projects/Smart_Events_Recorder/cmake-build-debug-mingw",
+  "command": "D:\\ARMGNU~1\\14EFD8~1.2RE\\bin\\AR19DD~1.EXE -DDEBUG -DSTM32F030x6 -DUSE_HAL_DRIVER -IG:/STM32_Projects/Smart_Events_Recorder/Core/Inc -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/STM32F0xx_HAL_Driver/Inc -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/CMSIS/Include  -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -fdiagnostics-color=always -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_dma.c.obj -c G:\\STM32_Projects\\Smart_Events_Recorder\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_dma.c",
+  "file": "G:\\STM32_Projects\\Smart_Events_Recorder\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_dma.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_dma.c.obj"
+},
+{
+  "directory": "G:/STM32_Projects/Smart_Events_Recorder/cmake-build-debug-mingw",
+  "command": "D:\\ARMGNU~1\\14EFD8~1.2RE\\bin\\AR19DD~1.EXE -DDEBUG -DSTM32F030x6 -DUSE_HAL_DRIVER -IG:/STM32_Projects/Smart_Events_Recorder/Core/Inc -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/STM32F0xx_HAL_Driver/Inc -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/CMSIS/Include  -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -fdiagnostics-color=always -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_cortex.c.obj -c G:\\STM32_Projects\\Smart_Events_Recorder\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_cortex.c",
+  "file": "G:\\STM32_Projects\\Smart_Events_Recorder\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_cortex.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_cortex.c.obj"
+},
+{
+  "directory": "G:/STM32_Projects/Smart_Events_Recorder/cmake-build-debug-mingw",
+  "command": "D:\\ARMGNU~1\\14EFD8~1.2RE\\bin\\AR19DD~1.EXE -DDEBUG -DSTM32F030x6 -DUSE_HAL_DRIVER -IG:/STM32_Projects/Smart_Events_Recorder/Core/Inc -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/STM32F0xx_HAL_Driver/Inc -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/CMSIS/Include  -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -fdiagnostics-color=always -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_pwr.c.obj -c G:\\STM32_Projects\\Smart_Events_Recorder\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_pwr.c",
+  "file": "G:\\STM32_Projects\\Smart_Events_Recorder\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_pwr.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_pwr.c.obj"
+},
+{
+  "directory": "G:/STM32_Projects/Smart_Events_Recorder/cmake-build-debug-mingw",
+  "command": "D:\\ARMGNU~1\\14EFD8~1.2RE\\bin\\AR19DD~1.EXE -DDEBUG -DSTM32F030x6 -DUSE_HAL_DRIVER -IG:/STM32_Projects/Smart_Events_Recorder/Core/Inc -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/STM32F0xx_HAL_Driver/Inc -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/CMSIS/Include  -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -fdiagnostics-color=always -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_pwr_ex.c.obj -c G:\\STM32_Projects\\Smart_Events_Recorder\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_pwr_ex.c",
+  "file": "G:\\STM32_Projects\\Smart_Events_Recorder\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_pwr_ex.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_pwr_ex.c.obj"
+},
+{
+  "directory": "G:/STM32_Projects/Smart_Events_Recorder/cmake-build-debug-mingw",
+  "command": "D:\\ARMGNU~1\\14EFD8~1.2RE\\bin\\AR19DD~1.EXE -DDEBUG -DSTM32F030x6 -DUSE_HAL_DRIVER -IG:/STM32_Projects/Smart_Events_Recorder/Core/Inc -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/STM32F0xx_HAL_Driver/Inc -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/CMSIS/Include  -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -fdiagnostics-color=always -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_flash.c.obj -c G:\\STM32_Projects\\Smart_Events_Recorder\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_flash.c",
+  "file": "G:\\STM32_Projects\\Smart_Events_Recorder\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_flash.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_flash.c.obj"
+},
+{
+  "directory": "G:/STM32_Projects/Smart_Events_Recorder/cmake-build-debug-mingw",
+  "command": "D:\\ARMGNU~1\\14EFD8~1.2RE\\bin\\AR19DD~1.EXE -DDEBUG -DSTM32F030x6 -DUSE_HAL_DRIVER -IG:/STM32_Projects/Smart_Events_Recorder/Core/Inc -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/STM32F0xx_HAL_Driver/Inc -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/CMSIS/Include  -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -fdiagnostics-color=always -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_flash_ex.c.obj -c G:\\STM32_Projects\\Smart_Events_Recorder\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_flash_ex.c",
+  "file": "G:\\STM32_Projects\\Smart_Events_Recorder\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_flash_ex.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_flash_ex.c.obj"
+},
+{
+  "directory": "G:/STM32_Projects/Smart_Events_Recorder/cmake-build-debug-mingw",
+  "command": "D:\\ARMGNU~1\\14EFD8~1.2RE\\bin\\AR19DD~1.EXE -DDEBUG -DSTM32F030x6 -DUSE_HAL_DRIVER -IG:/STM32_Projects/Smart_Events_Recorder/Core/Inc -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/STM32F0xx_HAL_Driver/Inc -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/CMSIS/Include  -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -fdiagnostics-color=always -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_exti.c.obj -c G:\\STM32_Projects\\Smart_Events_Recorder\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_exti.c",
+  "file": "G:\\STM32_Projects\\Smart_Events_Recorder\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_exti.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_exti.c.obj"
+},
+{
+  "directory": "G:/STM32_Projects/Smart_Events_Recorder/cmake-build-debug-mingw",
+  "command": "D:\\ARMGNU~1\\14EFD8~1.2RE\\bin\\AR19DD~1.EXE -DDEBUG -DSTM32F030x6 -DUSE_HAL_DRIVER -IG:/STM32_Projects/Smart_Events_Recorder/Core/Inc -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/STM32F0xx_HAL_Driver/Inc -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/CMSIS/Include  -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -fdiagnostics-color=always -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_spi.c.obj -c G:\\STM32_Projects\\Smart_Events_Recorder\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_spi.c",
+  "file": "G:\\STM32_Projects\\Smart_Events_Recorder\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_spi.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_spi.c.obj"
+},
+{
+  "directory": "G:/STM32_Projects/Smart_Events_Recorder/cmake-build-debug-mingw",
+  "command": "D:\\ARMGNU~1\\14EFD8~1.2RE\\bin\\AR19DD~1.EXE -DDEBUG -DSTM32F030x6 -DUSE_HAL_DRIVER -IG:/STM32_Projects/Smart_Events_Recorder/Core/Inc -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/STM32F0xx_HAL_Driver/Inc -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/CMSIS/Device/ST/STM32F0xx/Include -IG:/STM32_Projects/Smart_Events_Recorder/Drivers/CMSIS/Include  -mcpu=cortex-m0  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -fdiagnostics-color=always -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_spi_ex.c.obj -c G:\\STM32_Projects\\Smart_Events_Recorder\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_spi_ex.c",
+  "file": "G:\\STM32_Projects\\Smart_Events_Recorder\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_spi_ex.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F0xx_HAL_Driver\\Src\\stm32f0xx_hal_spi_ex.c.obj"
+}
+]
